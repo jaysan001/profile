@@ -1,0 +1,81 @@
+body {
+    margin:0;
+    font-family: 'Work Sans', sans-serif;
+    
+    background-color: #e6dace;
+}
+
+
+/* ---------------------------------------------- */
+.blue-box {
+    height: 20px;
+    width: 20px;
+    background-color: #0050ff;
+    display: inline-block;
+    margin-right: 10px;
+ }
+
+ .table{
+    font-size: 20px;
+    margin-left: auto;
+    margin-right:auto;
+    /* border-spacing: 30px; */
+    border-spacing:30px ;
+    width:720px;
+ }
+ .exp-content{
+    line-height: 25px;
+ }
+ .exp{
+    background-color:#fff !important;
+    margin-left: auto;
+    margin-right:auto;
+    border-spacing: 30px;
+    width:720px;
+    height:360px;
+    margin-bottom: 50px;
+ }
+
+ .exp-word{
+    
+ }
+
+ .download-data{
+    text-align: right;
+ }
+
+ .btn-download-cv{
+    border: 0;
+   border-radius: 28px;
+   font-family: Arial;
+   color: #ffffff;
+   font-size: 20px;
+   background: #0050ff;
+   padding: 10px 20px 10px 20px;
+   text-decoration: none;
+   border: 1px solid #0050ff;
+   /* width: 150px; */
+   margin: 30px 20px 30px 0;
+ }
+
+ h3{
+    color: #0050ff;
+ }
+ 
+ .language{
+    background-color:#fff !important;
+    margin-left: auto;
+    margin-right:auto;
+    border-spacing: 30px;
+    width:720px;
+    height:260px;
+    margin-bottom: 50px;
+ }
+
+ .blue-box-resume {
+    height: 10px;
+    width: 10px;
+    background-color: #0050ff;
+    display: inline-block;
+    margin-right: 10px;
+ }
